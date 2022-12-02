@@ -82,3 +82,5 @@ When a machine with the MAC-address of `00:11:22:33:44:55` now attempts to PXE b
 	- the screenshot above shows this stage
 7. Unless manually intervened, the machine chainloads into its iPXE script from pixie using HTTP
 8. The machine boots the operating system
+
+# ceshi
